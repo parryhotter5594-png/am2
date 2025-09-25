@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of  3D Print Analyzer & Pricer final v1.0.4",
+  "description": "An application to analyze 3D models for printability, configure print settings, and receive an instant price quote. It simulates slicing and pricing calculations.",
+  "requestFramePermissions": []
+}
